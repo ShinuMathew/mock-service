@@ -1,0 +1,1 @@
+INSERT INTO courses (courseid, coursename, coursetype) VALUES ($1, $2, $3);

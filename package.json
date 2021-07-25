@@ -1,0 +1,24 @@
+{
+  "name": "mock-services",
+  "version": "1.0.0",
+  "description": "Mock services for Angular",
+  "main": "index.js",
+  "scripts": {
+    "pre-scripts": "gulp postgres-prescripts"
+  },
+  "author": "Shinu Mathew",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-util": "^3.0.8",
+    "hapi": "^18.1.0",
+    "joi": "^13.4.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.3",
+    "nodemon": "^2.0.12",
+    "pg": "^8.6.0"
+  }
+}

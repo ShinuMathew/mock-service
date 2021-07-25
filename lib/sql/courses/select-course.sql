@@ -1,0 +1,1 @@
+SELECT * FROM COURSES WHERE courseId = $1;

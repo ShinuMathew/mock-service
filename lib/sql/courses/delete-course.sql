@@ -1,0 +1,1 @@
+DELETE FROM courses WHERE courseId=$1;
