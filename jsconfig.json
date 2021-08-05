@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./lib",
+        "paths": {
+            "@client/*":["lib/client/*"],
+            "@configs/*":["lib/configs/*"],
+            "@constants/*":["lib/constants/*"],
+            "@db-access/*":["lib/b-access/*"],
+            "@enums/*":["lib/enums/*"],
+            "@handlers/*":["lib/handlers/*"],
+            "@manager/*":["lib/manager/*"],
+            "@models/*":["lib/models/*"],
+            "@schemas/*":["lib/schemas/*"],
+            "@service/*":["lib/service/*"],
+            "@sql/*":["lib/sql/*"]
+        }
+    }
+}

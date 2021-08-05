@@ -15,7 +15,7 @@ npm install
 npm run pre-scripts
 
 # Starting the server
-node index.js
+nodemon index.js
 
 # ######################################################################
 
