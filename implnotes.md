@@ -18,3 +18,4 @@ Use VPS for deployment
 * Add Error handling and proper response for resource not found and proper resource management.
 * Add authentication layer
 * Add caching, indexing, queuing logics
+* 
